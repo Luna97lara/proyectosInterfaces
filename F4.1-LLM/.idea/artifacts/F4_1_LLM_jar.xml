@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="F4.1-LLM:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/F4_1_LLM_jar</output-path>
+    <root id="archive" name="F4.1-LLM.jar">
+      <element id="module-output" name="F4.1-LLM" />
+    </root>
+  </artifact>
+</component>
